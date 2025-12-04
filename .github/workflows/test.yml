@@ -50,9 +50,9 @@ jobs:
         uses: emibcn/badge-action@v2
         with:
           label: coverage
-          status: ${{ steps.coverage_json.outputs.lines }}%
+          status: ${{ steps.coverage_json.outputs.lines }}
           color: green
-          filepath: coverage-badge.svg
+          path: coverage-badge.svg
 
       - name: Commit coverage badge
         uses: stefanzweifel/git-auto-commit-action@v5
