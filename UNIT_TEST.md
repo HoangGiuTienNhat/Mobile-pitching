@@ -178,7 +178,7 @@ describe('ComponentName', () => {
 
 ## ⚙️ CÀI ĐẶT VÀ CẤU HÌNH
 
-### 1. Cài Đặt Dependencies z
+### 1. Cài Đặt Dependencies 
 
 #### Bước 1: Cài đặt Jest và Testing Libraries
 
