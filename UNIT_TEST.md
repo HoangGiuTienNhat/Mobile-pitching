@@ -178,8 +178,8 @@ describe('ComponentName', () => {
 
 ## ⚙️ CÀI ĐẶT VÀ CẤU HÌNH
 
-### 1. Cài Đặt Dependencies 
-aa
+### 1. Cài Đặt Dependencies z
+
 #### Bước 1: Cài đặt Jest và Testing Libraries
 
 ```bash
